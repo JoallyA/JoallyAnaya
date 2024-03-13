@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.carrusel{
+    width: 23%;
+    height: 150px;
+    margin: .5%;
+}
+
+.division{
+     display: flex;
+    flex-direction: row;
+}
